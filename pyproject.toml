@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "schema-extract-mvp"
+version = "0.0.0"
+description = "MVP scaffold for schema-extract"
+authors = [ { name = "autogen" } ]
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.0"
+

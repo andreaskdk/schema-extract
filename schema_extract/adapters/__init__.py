@@ -1,0 +1,3 @@
+# Adapter package for schema-extract
+# ...existing code...
+
